@@ -1,7 +1,7 @@
 """Module providingFunction printing python version."""
 import openai
 
-KEY = "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"
+KEY = "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"
 openai.api_key = KEY
 
 question = input("Pregunta: ")
